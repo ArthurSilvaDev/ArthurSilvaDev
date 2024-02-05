@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArthurSilvaDev
-- 👀 Estou interessado em iniciar na carreira de Dev
+- 👀 Estou iniciando na carreira de Dev
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas no IFRS - Campus Osório
 - 📫 Para saber mais sobre mim, acesse o meu LinkedIn https://www.linkedin.com/in/arthurfelipedasilva/ ou o meu Instagram pessoal https://www.instagram.com/arthfsilva/
 
