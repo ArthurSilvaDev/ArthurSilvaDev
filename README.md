@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Systems Analysis and Development**
 
-- 👨‍💻 All of my projects are available at [this repositore](this repositore)
+- 👨‍💻 All of my projects are available in this repositore
 
 - 💬 Ask me about **Java, C, MySQL...**
 
