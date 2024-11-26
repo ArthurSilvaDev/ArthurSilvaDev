@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arthur da Silva</h1>
 <h3 align="center">A passionate system developer from Brazil</h3>
 
-- 🔭 I’m currently working on **IT Suport**
+- 🔭 I’m currently working on **React / Node.js**
 
 - 🌱 I’m currently learning **Systems Analysis and Development**
 
 - 👨‍💻 All of my projects are available in this repositore
 
-- 💬 Ask me about **Java, C, MySQL...**
+- 💬 Ask me about **Java, C, SQL, React...**
 
 - 📫 How to reach me **arthurfsilva1985@gmail.com**
 
