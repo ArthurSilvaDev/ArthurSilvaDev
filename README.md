@@ -85,8 +85,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ArthurSilvaDev/ArthurSilvaDev/output/snake.svg" alt="Snake animation" />
 
 ###
